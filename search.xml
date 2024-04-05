@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>hello-obsidian</title>
+      <link href="/2024/04/05/hello-obsidian/"/>
+      <url>/2024/04/05/hello-obsidian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>Hello,Obsidian!</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搭建测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/03/16/hello-world/"/>
       <url>/2024/03/16/hello-world/</url>
