@@ -8,7 +8,7 @@
       <link href="/2025/03/21/ji-yi-ci-hong-ri-ba-chang-qi-ye-shen-tou/"/>
       <url>/2025/03/21/ji-yi-ci-hong-ri-ba-chang-qi-ye-shen-tou/</url>
       
-        <content type="html"><![CDATA[<p>环境准备<br>环境拓扑</p><p>我这里选择使用两台物理机搭建四个虚拟机，一个物理机开启kali和web，另外一台物理机开启win7和DC，两个物理机之间用一根网线相连，然后整个环境都是可以离线操作，所以我这里选择<br>kali:只给了一个网卡，选择为NAT模式<br>web:外网卡使用NAT模式，内网选择桥接模式<br>DC和win7：分别一张网卡，都设置为桥接模式</p><p><img src="/image-20250321152630653.png"></p>]]></content>
+        <content type="html"><![CDATA[<p>环境准备<br>环境拓扑</p><p><img src="/.io//image-20250321184224139.png"></p><p>我这里选择使用两台物理机搭建四个虚拟机，一个物理机开启kali和web，另外一台物理机开启win7和DC，两个物理机之间用一根网线相连，然后整个环境都是可以离线操作，所以我这里选择<br>kali:只给了一个网卡，选择为NAT模式<br>web:外网卡使用NAT模式，内网选择桥接模式<br>DC和win7：分别一张网卡，都设置为桥接模式</p>]]></content>
       
       
       
